@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uzixuuni.github.io/Wge/sitemap_index.txt
+Sitemap: https://uzixuuni.github.io/ZIp/sitemap_index.txt
+Sitemap: https://uzixuuni.github.io/cMU/sitemap_index.txt
+Sitemap: https://uzixuuni.github.io/qwb/sitemap_index.txt
